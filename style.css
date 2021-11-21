@@ -7,16 +7,15 @@ input{
     height:2.4rem;
     font-size: 15px;
     background-color: #e9eff5;
-     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans' 'Helvetica Neue', sans-serif; 
-    padding-left: 1rem;
+    font-family:Merriweather;
+     padding-left: 1rem;
     border-radius: 5px;
     }
 
 label{
     margin-left:33.5vw;
     font-size: large;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    
+    font-family:Merriweather;    
     
 }
 
@@ -24,7 +23,8 @@ body{
     background-color: #151515;
     color: #d0deec;
     line-height: 3rem;
-    font-family: cursive;
+    /* font-family: cursive; */
+    font-family:Merriweather;
 }
 h1{
     text-align: center;
@@ -40,6 +40,7 @@ h1{
         border-style: none;
         font-size: larger;
         font-weight: bold;
+        font-family:Merriweather;
     
 }
 
