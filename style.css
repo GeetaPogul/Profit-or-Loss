@@ -2,10 +2,10 @@
 
 input{
     display: block;
-    margin-left:33vw;
-    width:27rem;
-    height:2.4rem;
-    font-size: 15px;
+    margin-left:30vw;
+    width:28rem;
+    height:2.7rem;
+    font-size: 18px;
     background-color: #e9eff5;
     font-family:Merriweather;
      padding-left: 1rem;
@@ -13,38 +13,43 @@ input{
     }
 
 label{
-    margin-left:33.5vw;
+    margin-left:32vw;
     font-size: large;
-    font-family:Merriweather;    
+    
+    font-family:candara;   
     
 }
 
 body{
-    background-color: #151515;
-    color: #d0deec;
+    /* background-color: #151515; */
+    background-color: #f1f1f1;
+   
+    /* color: #d0deec; */
+    color: black;
     line-height: 3rem;
-    /* font-family: cursive; */
-    font-family:Merriweather;
+    font-family:candara;
 }
 h1{
     text-align: center;
+    margin-top: 50px;
 }
 #submit-btn{
     
-        margin-left:33.5vw;
+        margin-left:31vw;
         width:27.5rem;
         height:2.5rem;
         border-radius: 1px;
-        background-color:  rgb(31, 81, 231);
+        background-color: #7c3aed;
         color: #f9fafb;
         border-style: none;
         font-size: larger;
         font-weight: bold;
-        font-family:Merriweather;
+        font-family:candara;
     
 }
 
 #output-div{
     text-align: center;
     font-size: x-large;
+    font-family: candara;
 }
