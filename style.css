@@ -10,6 +10,7 @@ input{
     font-family:candara;
      padding-left: 1rem;
     border-radius: 5px;
+    color:   black;
     }
 
 label{
@@ -40,7 +41,7 @@ h1{
         height:2.5rem;
         border-radius: 1px;
         background-color: #7c3aed;
-        color: #7c3aed;
+        color: black;
         border-style: none;
         font-size: larger;
         font-weight: bold;
