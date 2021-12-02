@@ -54,3 +54,30 @@ h1{
     font-size: x-large;
     font-family: candara;
 }
+
+
+
+
+
+
+
+
+.link{
+    text-decoration: none;
+    padding: 0rem 1rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+} 
+  
+.link-secondary{
+    
+    
+  
+    background-color:var(--primary-color);
+    border-radius: 0.5rem;
+    color: #7c3aed;
+    margin-left: 36rem;
+    font-size: 1.4rem;
+    padding: 0.5rem;
+    border: 1px solid #7c3aed;
+}
